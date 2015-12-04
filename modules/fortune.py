@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 """
-rip.py - rest in peace
+fortune.py - Calls fortune (with length constraint)
+             @TODO: Change tabs to spaces in output
 """
 import subprocess
 
